@@ -11,7 +11,7 @@
                                   `--'
 ```
 
-### Fullstack Developer · React · Node.js · Open to Learning
+### Fullstack Developer · React.js · Java Spring Boot
 
 </div>
 
@@ -22,58 +22,58 @@
 ```javascript
 const me = {
   name: "Tran Quoc Phu",
-  role: "Fullstack Developer (React.js + Node.js)",
+  role: "Fullstack Developer (React.js + Spring Boot)",
   location: "Ha Noi City, Vietnam 🇻🇳",
   status: "Seeking Fullstack Internship",
-  focus: ["React.js", "Node.js", "Express.js", "REST API", "MySQL"],
-  learning: ["Docker", "System Design"],
-  values: ["Clean Code", "Performance", "Scalable Architecture"],
+  frontend: ["React.js", "JavaScript", "Tailwind CSS"],
+  backend: ["Java", "Spring Boot", "REST API"],
+  database: ["MySQL", "PostgreSQL"],
+  tools: ["Git", "Docker", "Postman"],
+  values: ["Clean Code", "Performance", "Scalable Architecture"]
 }
 ```
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Frontend
-[![](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,js,tailwind)](https://skillicons.dev)
 
-### Backend & Database
-[![](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres)](https://skillicons.dev)
+### Backend
+[![](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+### Database
+[![](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ### Tools
-[![](https://skillicons.dev/icons?i=git,github,docker,postman,figma)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,docker,postman)](https://skillicons.dev)
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### Task Management System
-**React · Node.js · Express · MySQL · JWT**
+**React.js · Spring Boot · MySQL · JWT**
 
-A fullstack task management web application.
-
-- User authentication with JWT  
-- CRUD task management  
-- Responsive UI with React  
-- REST API backend with Express  
+- User authentication
+- CRUD task management
+- REST API backend
 
 </td>
 
 <td width="50%">
 
 ### E-Commerce Web App
-**React · Node.js · Express · MySQL**
+**React.js · Spring Boot · MySQL**
 
-Basic e-commerce platform with product management.
-
-- Product listing & filtering  
-- Cart and order system  
-- Admin product management  
+- Product listing
+- Cart and order system
+- Admin dashboard
 
 </td>
 </tr>
@@ -82,26 +82,21 @@ Basic e-commerce platform with product management.
 <td width="50%">
 
 ### Employee Management System
-**React · Node.js · MySQL**
+**React.js · Spring Boot · MySQL**
 
-Employee management dashboard.
-
-- Employee CRUD  
-- Search & filtering  
-- REST API backend  
+- Employee CRUD
+- Search & filtering
+- REST API backend
 
 </td>
 
 <td width="50%">
 
 ### Portfolio Website
-**React · Tailwind**
+**React.js · Tailwind CSS**
 
-Personal portfolio website.
-
-- Responsive UI  
-- Project showcase  
-- Contact form  
+- Responsive UI
+- Project showcase
 
 </td>
 </tr>
@@ -109,7 +104,7 @@ Personal portfolio website.
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -121,7 +116,7 @@ Personal portfolio website.
 
 ---
 
-## Contact
+# Contact
 
 <div align="center">
 
