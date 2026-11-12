@@ -1,82 +1,119 @@
- <div align="center">
 
-# 👋 Hi, I'm Tran Quoc Phu
+<!-- ================================================= -->
+<!--                    HEADER                         -->
+<!-- ================================================= -->
 
-### Fullstack Developer | React.js · Java · Spring Boot
+<div align="center">
 
-Building modern web applications with clean code and scalable architecture.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=TRAN%20QUOC%20PHU&fontSize=48&fontColor=38BDF8&fontAlignY=42&desc=FULLSTACK%20DEVELOPER&descSize=17&descColor=94A3B8&descAlignY=65"/>
 
-📍 Ha Noi, Vietnam 🇻🇳
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React.js+%7C+Laravel+%7C+Java;Building+Modern+Web+Applications;Always+Learning+%26+Improving" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-tranquocphu05-181717?style=for-the-badge&logo=github)](https://github.com/tranquocphu05)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranphu16172005@gmail.com)
+<br/><br/>
+
+<a href="https://github.com/tranquocphu05">
+<img src="https://img.shields.io/badge/GitHub-tranquocphu05-161B22?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:tranphu16172005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-161B22?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=tranquocphu05&style=flat-square&color=0891B2&label=PROFILE+VIEWS"/>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ================================================= -->
+<!--                    INTRODUCTION                   -->
+<!-- ================================================= -->
+
+## 👋 About Me
 
 ```javascript
-const phu = {
-  name: "Tran Quoc Phu",
-  role: "Fullstack Developer",
-  location: "Ha Noi, Vietnam",
+const developer = {
+    name: "Tran Quoc Phu",
+    role: "Fullstack Developer",
+    location: "Ha Noi, Vietnam 🇻🇳",
 
-  frontend: ["React.js", "JavaScript", "Tailwind CSS"],
-  backend: ["Java", "Spring Boot", "REST API"],
-  database: ["MySQL", "PostgreSQL"],
-  tools: ["Git", "Docker", "Postman"],
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Tailwind CSS"
+    ],
 
-  interests: [
-    "Web Development",
-    "Software Architecture",
-    "Clean Code",
-    "Problem Solving"
-  ],
+    backend: [
+        "PHP",
+        "Laravel",
+        "Java",
+        "Spring Boot",
+        "REST API"
+    ],
 
-  currentlyLearning: [
-    "Advanced Spring Boot",
-    "System Design",
-    "Fullstack Development"
-  ]
+    database: [
+        "MySQL",
+        "PostgreSQL"
+    ],
+
+    tools: [
+        "Git",
+        "Docker",
+        "Postman",
+        "VS Code"
+    ],
+
+    focus: "Fullstack Web Development"
 };
 ```
 
-- 🚀 Passionate about building modern and scalable web applications.
-- 💻 Interested in both Frontend and Backend development.
-- 🌱 Continuously learning new technologies and improving my skills.
-- 🎯 Looking for opportunities to grow as a Fullstack Developer.
+- 🚀 Building modern and user-friendly web applications.
+- 💻 Experienced with WordPress, PHP and Laravel development.
+- ⚡ Interested in React.js and Java Spring Boot.
+- 🌱 Continuously improving software development skills.
+- 🎯 Focused on writing clean, maintainable code.
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ================================================= -->
+<!--                    TECH STACK                     -->
+<!-- ================================================= -->
 
-### Frontend Development
+## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+<div align="center">
 
-### Backend Development
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-### Database
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
+**Backend**
 
-### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring&theme=dark" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
-</p>
+<br/><br/>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma&theme=dark" />
+
+</div>
 
 ---
+
+<!-- ================================================= -->
+<!--                    PROJECTS                       -->
+<!-- ================================================= -->
 
 ## 🚀 Featured Projects
 
@@ -84,26 +121,31 @@ const phu = {
 <tr>
 <td width="50%" valign="top">
 
-### 📋 Task Management System
+### 🏨 Hotel Booking System
 
-**React.js · Spring Boot · MySQL · JWT**
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-- User authentication & authorization
-- Task management (CRUD)
-- RESTful API integration
-- Secure authentication with JWT
+- Room management
+- Online hotel booking
+- Customer authentication
+- Booking and invoice management
+- Admin dashboard
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Web App
+### 📊 CRM Management System
 
-**React.js · Spring Boot · MySQL**
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 
-- Product management
-- Shopping cart & checkout
-- Order management
-- Admin dashboard
+- Customer management
+- CRM data management
+- REST API integration
+- Dashboard and reporting
+- User permissions
 
 </td>
 </tr>
@@ -111,26 +153,30 @@ const phu = {
 <tr>
 <td width="50%" valign="top">
 
-### 👥 Employee Management System
+### 🛒 E-Commerce Website
 
-**React.js · Spring Boot · MySQL**
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
 
-- Employee management (CRUD)
-- Search & filtering
-- Employee information management
-- REST API integration
+- Product management
+- Shopping cart
+- Order management
+- WooCommerce customization
+- Website optimization
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
 
-**React.js · Tailwind CSS**
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-- Modern and responsive UI
+- Modern UI design
+- Responsive interface
+- Reusable components
 - Personal project showcase
-- Clean and reusable components
-- Optimized user experience
 
 </td>
 </tr>
@@ -138,44 +184,104 @@ const phu = {
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ================================================= -->
+<!--                 GITHUB STATISTICS                 -->
+<!-- ================================================= -->
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tranquocphu05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/tranquocphu05">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tranquocphu05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=tranquocphu05&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/tranquocphu05">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquocphu05&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6" />
+</a>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquocphu05&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=tranquocphu05&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+<!-- ================================================= -->
+<!--                 ACTIVITY GRAPH                    -->
+<!-- ================================================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=tranquocphu05&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
+width="100%"
+/>
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                 CONTRIBUTION MAP                  -->
+<!-- ================================================= -->
+
+## 🔥 Contribution Calendar
+
+<div align="center">
+
+<img
+src="https://ghchart.rshah.org/38BDF8/tranquocphu05"
+alt="GitHub Contribution Calendar"
+width="100%"
+/>
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                 GITHUB TROPHIES                   -->
+<!-- ================================================= -->
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=tranquocphu05&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10"
+width="100%"
+/>
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                     CONTACT                       -->
+<!-- ================================================= -->
+
+## 📬 Contact Me
 
 <div align="center">
 
 <a href="mailto:tranphu16172005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-tranphu16172005%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://github.com/tranquocphu05">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-tranquocphu05-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+**📍 Ha Noi, Vietnam 🇻🇳**
 
 <br/>
 
-📍 **Ha Noi City, Vietnam**
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad."
-
-⭐ Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0D1117&height=100&section=footer"/>
 
 </div>
