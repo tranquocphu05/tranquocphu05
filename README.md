@@ -1,102 +1,136 @@
-<div align="center">
+ <div align="center">
 
-```
-  _______ __          _______ _______ 
- |   _   |  |--.--.--|       |   _   |
- |.  1   |     |  |  |.|   | |.  |   |
- |.  ____|__|__|_____`-|.  |-|.  |   |
- |:  |                 |:  | |:  1   |
- |::.|                 |::.| |::..   |
- `---'                 `---' `----|:.|
-                                  `--'
-```
+# 👋 Hi, I'm Tran Quoc Phu
 
-### Fullstack Developer · React.js · Java Spring Boot
+### Fullstack Developer | React.js · Java · Spring Boot
+
+Building modern web applications with clean code and scalable architecture.
+
+📍 Ha Noi, Vietnam 🇻🇳
+
+[![GitHub](https://img.shields.io/badge/GitHub-tranquocphu05-181717?style=for-the-badge&logo=github)](https://github.com/tranquocphu05)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranphu16172005@gmail.com)
 
 </div>
 
 ---
 
-## const me = {...}
+## 👨‍💻 About Me
 
 ```javascript
-const me = {
+const phu = {
   name: "Tran Quoc Phu",
-  role: "Fullstack Developer (React.js + Spring Boot)",
-  location: "Ha Noi City, Vietnam 🇻🇳",
-  status: "Seeking Fullstack Internship",
+  role: "Fullstack Developer",
+  location: "Ha Noi, Vietnam",
+
   frontend: ["React.js", "JavaScript", "Tailwind CSS"],
   backend: ["Java", "Spring Boot", "REST API"],
   database: ["MySQL", "PostgreSQL"],
   tools: ["Git", "Docker", "Postman"],
-  values: ["Clean Code", "Performance", "Scalable Architecture"]
-}
+
+  interests: [
+    "Web Development",
+    "Software Architecture",
+    "Clean Code",
+    "Problem Solving"
+  ],
+
+  currentlyLearning: [
+    "Advanced Spring Boot",
+    "System Design",
+    "Fullstack Development"
+  ]
+};
 ```
 
+- 🚀 Passionate about building modern and scalable web applications.
+- 💻 Interested in both Frontend and Backend development.
+- 🌱 Continuously learning new technologies and improving my skills.
+- 🎯 Looking for opportunities to grow as a Fullstack Developer.
+
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-[![](https://skillicons.dev/icons?i=react,js,tailwind)](https://skillicons.dev)
+### Frontend Development
 
-### Backend
-[![](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
+</p>
 
 ### Database
-[![](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-### Tools
-[![](https://skillicons.dev/icons?i=git,github,docker,postman)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
+</p>
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Task Management System
+### 📋 Task Management System
+
 **React.js · Spring Boot · MySQL · JWT**
 
-- User authentication
-- CRUD task management
-- REST API backend
+- User authentication & authorization
+- Task management (CRUD)
+- RESTful API integration
+- Secure authentication with JWT
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🛒 E-Commerce Web App
 
-### E-Commerce Web App
 **React.js · Spring Boot · MySQL**
 
-- Product listing
-- Cart and order system
+- Product management
+- Shopping cart & checkout
+- Order management
 - Admin dashboard
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Employee Management System
+### 👥 Employee Management System
+
 **React.js · Spring Boot · MySQL**
 
-- Employee CRUD
+- Employee management (CRUD)
 - Search & filtering
-- REST API backend
+- Employee information management
+- REST API integration
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🌐 Portfolio Website
 
-### Portfolio Website
 **React.js · Tailwind CSS**
 
-- Responsive UI
-- Project showcase
+- Modern and responsive UI
+- Personal project showcase
+- Clean and reusable components
+- Optimized user experience
 
 </td>
 </tr>
@@ -104,27 +138,44 @@ const me = {
 
 ---
 
-# GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tranquocphu05&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tranquocphu05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://streak-stats.demolab.com?user=tranquocphu05&theme=tokyonight&hide_border=true" height="160"/>
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=tranquocphu05&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquocphu05&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# Contact
+## 📫 Connect With Me
 
 <div align="center">
 
-Email: **tranphu16172005@gmail.com**  
-Location: **Ha Noi City, Vietnam 🇻🇳**
+<a href="mailto:tranphu16172005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/tranquocphu05">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+📍 **Ha Noi City, Vietnam**
 
 </div>
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad."*
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad."
+
+⭐ Thanks for visiting my profile!
+
+</div>
